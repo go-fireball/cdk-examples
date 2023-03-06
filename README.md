@@ -1,4 +1,4 @@
-# CDK
+# cdk-examples
 
 [alb-fargate](./alb-fargate#readme) - Simple Web Api with Application Load Balancer & Fargate 
 
